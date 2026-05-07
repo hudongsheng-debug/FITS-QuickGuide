@@ -40,11 +40,5 @@ Some workflow explanations are also based on methods described in the author's p
 - FITS QuickLook Mobile
 
 ## Support
-
-If you encounter issues or have suggestions, please use GitHub Issues or App Store feedback.
-
-## Acknowledgements
-
-- LAMOST Project
-- Wenmin Sun
-- Haiping Chen
+If you encounter issues or have suggestions, please contact:
+hudongsheng356@gmail.com
