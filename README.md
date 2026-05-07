@@ -1,16 +1,16 @@
-## FITS QuickGuide
+# FITS QuickGuide
 
 I plan to submit the first public version of FITS QuickGuide for App Store review on May 7. Planned Features for Version 1.0.0
 
-### Version 1.0.0 New Features
-## Documentation and Workflow Guidance
+## Version 1.0.0 New Features
+### Documentation and Workflow Guidance
 
 * Official workflow documentation for FITS QuickLook X and FITS QuickLook Mobile
 * Step-by-step operation guides
 * Feature explanations and workflow references
 * Built-in onboarding and Help guidance
 
-## Scientific Workflow Topics
+### Scientific Workflow Topics
 
 * Keystone distortion correction
 * Smile distortion correction
@@ -19,13 +19,13 @@ I plan to submit the first public version of FITS QuickGuide for App Store revie
 * BINTABLE and Matrix visualization workflows
 * Workspace and multi-file analysis guidance
 
-## Platform Support
+### Platform Support
 
 * iPhone
 * iPad
 * Mac
 
-## Interface Features
+### Interface Features
 
 * Dark Mode support
 * Adjustable text size
@@ -34,7 +34,7 @@ I plan to submit the first public version of FITS QuickGuide for App Store revie
 * iPad Workspace workflow guidance
 * Live Activities and Lock Screen status support on iPhone
 
-## Analysis and Visualization Topics
+### Analysis and Visualization Topics
 
 * 2D FITS workflows
 * BINTABLE plotting workflows
@@ -42,7 +42,7 @@ I plan to submit the first public version of FITS QuickGuide for App Store revie
 * Compare and Profile tools
 * Advanced analysis guidance
 
-## Additional Notes
+### Additional Notes
 
 * Built entirely with native Apple technologies
 * Designed as the official handbook for the FITS QuickLook ecosystem
