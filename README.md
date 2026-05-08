@@ -1,4 +1,6 @@
 # FITS QuickGuide
+⚠️⚠️The developer is back home, and updates for the Mac version 5.1.6 will continue. （May 13th back)
+
 
 I plan to submit the first public version of FITS QuickGuide for App Store review on May 7. Planned Features for Version 1.0.0
 
